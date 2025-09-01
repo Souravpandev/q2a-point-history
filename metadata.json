@@ -1,0 +1,15 @@
+{
+    "name": "Q2A Point History",
+    "uri": "https://github.com/Souravpandev/q2a-point-history",
+    "description": "A comprehensive point history tracking plugin for Question2Answer that allows users to view their point earning history in a beautiful timeline widget. Features include real-time point tracking, admin point history viewer, responsive timeline design, avatar integration, export functionality, and performance optimizations with minified assets.",
+    "version": "1.0.0",
+    "date": "2025-01-28",
+    "author": "Sourav Pan",
+    "author_uri": "https://github.com/Souravpandev",
+    "license": "GPLv3",
+    "update_uri": "",
+    "min_q2a": "1.8",
+    "min_php": "7.0",
+    "category": "User Management",
+    "tags": "points, history, tracking, analytics, user activity, widget, export"
+}
